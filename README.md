@@ -6,3 +6,5 @@ The objective of this project is to understand better how git works.
 This is a first change from other local repo
 
 This is a second change from other local repo
+
+This is a third change from other local repo
